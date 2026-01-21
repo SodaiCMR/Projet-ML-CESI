@@ -1,4 +1,4 @@
-# Projet IA - Analyse de la Rotation des Employés chez HumanForYou
+# Projet IA - Analyse de la Rotation des Employés chez HumanForYou (entreprise fictive)
 
 ## Contexte
 
